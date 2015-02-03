@@ -11,6 +11,11 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr-0": { "Rhino": "src/" }
+        "psr-0": {
+        	"Rhino": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
     }
 }
