@@ -1,6 +1,6 @@
 <?php
 
-namespace Album;
+namespace Rhino;
 
 use Zend\ModuleManager\Feature\AutoloaderProviderInterface;
 use Zend\ModuleManager\Feature\ConfigProviderInterface;
