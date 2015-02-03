@@ -1,0 +1,16 @@
+{
+    "name": "root/rhino",
+    "description": "Zend Frameork Module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus Correa",
+            "email": "matheuscorrea@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": { "Rhino": "src/" }
+    },
+}
